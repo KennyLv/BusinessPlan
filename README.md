@@ -6,8 +6,7 @@ This is the personal place for me to write down my dieals and dreams.
 ---------------
 
 
-
-ConnectU
+### ConnectU
 ------------------
 **Description**
 >[Online]Connect the people though teach English.
@@ -24,8 +23,7 @@ ConnectU
 - EnglishTwon/沪江
 
 
-
-UGlass
+### UGlass
 -------------
 **Description**
 >[O2O]
@@ -44,11 +42,11 @@ UGlass
 - 吴良材&宝岛
 
 
-Media Phone Book
+### Media Phone Book
 ----------------------------------
 - 文盲老人
 
-TravelPlanApp
+### TravelPlanApp
 --------------------------------
 - Based on 3-rd open api
 - 个性化旅游分析
@@ -56,14 +54,14 @@ TravelPlanApp
 - 线路规划
 - 一键搞定吃住行 
 
-Shared Memories
+### Shared Memories
 --------------------------------
 - HTML
 - Sandbox
 - Hybird - Mobile App
 
 
-QA_Insurance
+### QA_Insurance
 ---------------------------
 - 知识普及
 - 专业入住
@@ -71,13 +69,13 @@ QA_Insurance
 - 保险界的知乎
 
 
-Smart Hardware
+### Smart Hardware
 ---------------------------
 - 电视
  - 手机遥控器
  - 父子配合闯关游戏
 
-- Google眼镜+手机
+- 手机(+Google眼镜)
  - 实现直播
  - Meerkat，Periscope，黄油相机
 
@@ -86,13 +84,13 @@ Smart Hardware
  - Car2go
 
  
-家具
+### 家具
 -------------------
 - 在线定制家具
 - 回收再交易 
- 
-  
- Other
+
+
+### Other
  -------------
 - 个人页面定制设计
 - 个人简历站/APP
