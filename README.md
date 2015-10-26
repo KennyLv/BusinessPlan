@@ -98,13 +98,12 @@ This is the personal place for me to write down my dieals and dreams.
 
 
 ---------uncatelogued--------------
-英语私教
-手写萤光屏+截屏
-附近，发布信息
-鸡场／支教
-五彩斑斓 墙绘 DIY
-文艺片专门影院
-圈子／兴趣领袖
+ 英语私教
+ 手写萤光屏+截屏
+ 附近，发布信息
+ 五彩斑斓 墙绘 DIY
+ 文艺片专门影院
+ 圈子／兴趣领袖
 
 [医疗]
 和谐医患，保存你的电子病历
