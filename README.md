@@ -36,7 +36,6 @@ This is the personal place for me to write down my dieals and dreams.
 - 会员制
 - 时尚
 - 健康+检测+监测APP
-- 手环120
 - 服务
 
 **Refer**
@@ -113,9 +112,10 @@ This is the personal place for me to write down my dieals and dreams.
 圈子／兴趣领袖
 
 [医疗]   
-和谐医患，保存你的电子病历    
-数据人：纪录各个参数    
-爱康／个人注册／企业关联   
+ - 和谐医患，保存你的电子病历    
+ - 数据人：纪录各个参数    
+ - 爱康／个人注册／企业关联
+ - 手环120
 
 [眼健康]关注眼睛健康，监视变化    
 吴良才／会员／让戴眼镜成为时尚而不是负担
