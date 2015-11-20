@@ -36,6 +36,7 @@ This is the personal place for me to write down my dieals and dreams.
 - 会员制
 - 时尚
 - 健康+检测+监测APP
+- 手环120
 - 服务
 
 **Refer**
