@@ -88,6 +88,12 @@ This is the personal place for me to write down my dieals and dreams.
 -------------------
 - 在线定制家具
 - 回收再交易 
+ 
+### 物业%家政%同城服务
+-------------------
+- 物业管理-宅师傅/叮咚/青和
+- EXEC / 家政端的Uber 
+- 58
 
 
 ### Other
@@ -121,8 +127,4 @@ This is the personal place for me to write down my dieals and dreams.
 
 [驾考]
 
-[物业]
-物业管理-宅师傅
-叮咚
-青和
 
