@@ -14,7 +14,7 @@ This is the personal place for me to write down my dieals and dreams.
 ### ConnectU
 ------------------
 **Description**
->[Online]Connect the people though teach English. (已有:SnapLingo呤呤语伴[http://www.snaplingo.com.cn/] )
+>[Online]Connect the people though teach English. 
 
 **Domain**
 
@@ -26,6 +26,7 @@ This is the personal place for me to write down my dieals and dreams.
 
 **Refer**
 - EnglishTwon/沪江
+- SnapLingo呤呤语伴[http://www.snaplingo.com.cn/]
 
 
 ### UGlass
