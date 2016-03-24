@@ -12,7 +12,7 @@ This is the personal place for me to write down my dieals and dreams.
 - 药粥
 
 ### Based on 3rd
-- 小区监控
+- 区域监控
 - 主播/大V-内容一键发布
 
 ### ConnectU
