@@ -110,7 +110,8 @@ This is the personal place for me to write down my dieals and dreams.
  -------------
 - 个人页面定制设计
 - 个人简历站/APP
-
+- 自由开发联盟/猎头/contractor/
+- 联盟-互联网时代的人才变革 ( https://book.douban.com/subject/26308014/)
 
 ### 未分类 | uncatelogued
 -----------------------
@@ -133,8 +134,6 @@ This is the personal place for me to write down my dieals and dreams.
 [旅游]XX到此一游。拍照游记
 
 [游戏]古村 任务vs探险vsPK
-
-[站点]自由开发联盟／猎头／contractor
 
 [驾考]
 
