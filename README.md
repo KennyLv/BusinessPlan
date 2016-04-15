@@ -106,12 +106,13 @@ This is the personal place for me to write down my dieals and dreams.
 - 58
 
 
-### Other
+### 职业规划
  -------------
 - 个人页面定制设计
 - 个人简历站/APP
 - 自由开发联盟/猎头/contractor/
 - 联盟-互联网时代的人才变革 ( https://book.douban.com/subject/26308014/)
+- 追溯自己的职业生涯 (http://news.cnblogs.com/n/542977/)
 
 ### 未分类 | uncatelogued
 -----------------------
