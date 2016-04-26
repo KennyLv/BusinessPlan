@@ -77,6 +77,7 @@ This is the personal place for me to write down my dieals and dreams.
 - 专业入住
 - 流程梳理
 - 保险界的知乎
+- :阿里健康+险
 
 
 ### Smart Hardware
@@ -134,8 +135,15 @@ This is the personal place for me to write down my dieals and dreams.
 
 [旅游]XX到此一游。拍照游记
 
-[游戏]古村 任务vs探险vsPK
+[游戏]
+- 古村 
+- 任务vs探险vsPK  
+- 现实场景+虚拟（手机魔兽+真实环境）（已有Ingress）
 
 [驾考]
+
+[媒体] Nanjing Post -爬取、智能标签分类（大数据）
+
+
 
 
