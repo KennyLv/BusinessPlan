@@ -12,8 +12,9 @@ This is the personal place for me to write down my dieals and dreams.
 - 药粥
 
 ### Based on 3rd
-- 区域监控
+- 区域监控（网络直播平台）
 - 主播/大V-内容一键发布
+- 图片网站-版权-虚拟货币 （云存储，500px，新闻网站）
 
 ### ConnectU
 ------------------
